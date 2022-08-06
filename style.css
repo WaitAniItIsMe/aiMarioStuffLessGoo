@@ -1,0 +1,23 @@
+h4{
+    background-color: rgb(224, 252, 252);
+    box-shadow: 6px 6px 6px black;
+    width: 80%;
+    line-height: 2;
+    margin: 0;
+}
+
+.modal-dialog{
+    width: 80%;
+}
+
+.instruction_image{
+    display: inline-block; 
+    width: 40%;
+}
+
+video{
+    background-image: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
